@@ -1,15 +1,12 @@
-# About me
+# A nonval framework for Visual Dialog(VisDial)
 
-虚步, a Ph.D. student at BUPT. He is very fortunate to be advised by his advisor. His research is in the area of Vision, Language, and Reasoning, with a focus on Visual Dialogue. He is particularly interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation, and Visually-grounded Referring Expression.
-<br>
-Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
+Retrieve-based metrices on VisDial, i.e., NDCG, MRR, Mean, R@{1,5,10}, are not a good performance indicator to generate acurate, high-quality response for Visual Dialog agent. However, we found that high NDCG and response quality are in the opposite direction.
 
 # Visual Dialog (VisDial) task
 Visual Dialog needs an AI agent to chat with humans in natural, conversational language about visual content. Specifically, given a specific image, a dialog history, and a follow-up question about the image, the task for the AI agent is to answer the question in free-form natural language.
 
 # Paper
-
-# Performance
+coming soon...
 
 # Training 
 
